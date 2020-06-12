@@ -14,7 +14,9 @@ System Requirements:
 Note: You need Node.js/npm to run the project -- but you do not need to do work in the backend unless you chose to.
 
 1. Your goal is to create a simple interface that looks similar to this:
-   ![image][./screenshots/snapshot.png]
+
+   ![image](./screenshots/snapshot.png)
+
 2. Clone the repository, and create a branch under `'test/[Your First Name]'`
 
 3. This repository uses Node.js -- install dependencies if you are familiar. If you are not familiar with Node -- ask
