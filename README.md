@@ -15,7 +15,7 @@ Note: You need Node.js/npm to run the project -- but you do not need to do work 
 
 1. Your goal is to create a simple interface that looks similar to this:
 
-   ![image](./screenshots/snapshot.png)
+   ![image](./screenshots/Snapshot.PNG)
 
 2. Clone the repository, and create a branch under `'test/[Your First Name]'`
 
